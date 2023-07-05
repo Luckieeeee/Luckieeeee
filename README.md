@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jainah Chen</h1>
 
 - 🎓 I'm a third year CS student from UWaterloo
-- 🌱 I’m currently learning **CI/DI related tools* such as Docker, Kubernetes, Jenkins, Apache, etc
+- 🌱 I’m currently learning *CI/DI related tools* such as Docker, Kubernetes, Jenkins, Apache, etc
 - 💻 I'm interested in learning about Devops and backend engineering
 - 📫 How to reach me **jainahchen2016@gmail.com**
 
